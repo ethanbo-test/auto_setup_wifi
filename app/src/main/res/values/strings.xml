@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">auto_setup_wifi</string>
+  <string name="btn1_name">check wifi</string>
+  <string name="btn2_name">change wifi</string>
+</resources>

@@ -2,5 +2,5 @@
   <string name="app_name">auto_setup_wifi</string>
   <string name="btn1_name">Show wifi</string>
   <string name="btn2_name">Switch wifi</string>
-  <string name="btn3_name">Wifi off</string>
+  <string name="btn3_name">Test</string>
 </resources>
